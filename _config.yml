@@ -1,5 +1,6 @@
 # Site
 repository: endermanapm/resume
+google_analytics: UA-150746440-1
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -11,7 +12,7 @@ website: resume.bugmaker.dev
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  endermanapm
+github_username: endermanapm
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
