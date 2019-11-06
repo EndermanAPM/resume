@@ -34,7 +34,7 @@
   quote: >
     Ticketing platform with over 8 million sold tickets per year.
   description: | # this will include new lines to allow paragraphs
-    Initially maintained and added features to the soon to be the legacy <mark>SpringMVC</mark> monolith.
+    Maintained and improved to the soon to be the legacy <mark>SpringMVC</mark> monolith.
 
     While still maintaining the monolith I was given tasks to breakdown and migrate the existing features to *REST* based
      <mark>microservices</mark>.
