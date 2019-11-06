@@ -1,10 +1,136 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Onebox
+  link: www.oneboxtds.com
+  job_title: Backend Java Developer
+  dates: 2019
   quote: >
-   Short description of the company (optional)
+    Onebox is a comprehensive ticket distribution system for the live entertainment industry.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    My main role was to extract and reimplement existing features of the <mark>SpringMVC</mark> monolith to new *REST*
+    based <mark>microservices</mark>.
+
+    *MS:*
+    <mark>java</mark>
+    <mark>spring-boot</mark>
+    <mark>jooq</mark>
+    <mark>OkHttp</mark>
+
+    *CI/CD:*
+    <mark>git</mark>
+    <mark>jenkins</mark>
+    <mark>docker</mark>
+    <mark>kubernetes</mark>
+
+    *Cloud:*
+    <mark>aws</mark>
+
+# Experience template
+- layout: left
+  company: Clorian
+  link: www.clorian.com
+  job_title: Fullstack Java Developer
+  dates: 2017 - 2019
+  quote: >
+    Ticketing platform with over 8 million sold tickets per year.
+  description: | # this will include new lines to allow paragraphs
+    Initially maintained and added features to the soon to be the legacy <mark>SpringMVC</mark> monolith.
+
+    While still maintaining the monolith I was given tasks to breakdown and migrate the existing features to *REST* based
+     <mark>microservices</mark>.
+
+    After the main Android developer left maitaining and feature implementations tasks for the app were asigned to me.
+
+    *Back:*
+    <mark>java</mark>
+    <mark>spring-mvc</mark>
+    <mark>spring-boot</mark>
+    <mark>jsp</mark>
+    <mark>mybatis</mark>
+    <mark>hibernate</mark>
+    <mark>redis</mark>
+    <mark>retrofit</mark>
+
+    *Auth:*
+    <mark>OAuth2</mark>
+    <mark>JWT</mark>
+
+    *Front:*
+    <mark>html</mark>
+    <mark>jquery</mark>
+
+    *Android:*
+    <mark>kotlin</mark>
+    <mark>dagger-2</mark>
+    <mark>reactiveX</mark>
+
+    *CI/CD:*
+    <mark>git</mark>
+    <mark>jenkins</mark>
+    <mark>docker</mark>
+
+    *Cloud:*
+    <mark>amazon-ecs</mark>
+    <mark>amazon-sns</mark>
+    <mark>amazon-sqs</mark>
+    <mark>amazon-rds-aurora</mark>
+    <mark>aws</mark>
+
+# Experience template
+- layout: left
+  company: Ecomm360
+#  link: Link to company (optional)
+  job_title: Fullstack PHP Developer
+  dates: 2017
+#  quote: >
+#    Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Prestashop Modules Development.
+
+    <mark>php</mark> <mark>prestashop</mark> <mark>laravel-5</mark> <mark>mysql</mark>
+
+# Experience template
+- layout: left
+  company: CONTECNOW
+  link: contecnow.com
+  jobs:
+    - title: Big data and analytics
+      dates: 2016 - 2017
+    - title: Junior Sysadmin
+      dates: 2014 - 2016
+#  quote: >
+#    Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    ***Sysadmin***: Windows and Linux maintenance and problem solving for clients and internal systems.
+
+    *Tech:*
+    <mark>nagios</mark>
+    <mark>vmware-virtualization</mark>
+    <mark>netapp</mark>
+    <mark>symantec-backup-exec</mark>
+    <mark>symantec-endpoint-security</mark>
+
+    *Windows:*
+    <mark>windows-active-domain</mark>
+    <mark>microsoft-exchange</mark>
+
+    ***Big data***: Fullstack developer mainly in Python, Data analysis and visualization. Middleware were also developed for data ingest and processing.
+
+    *Back:*
+    <mark>python</mark>
+    <mark>flask</mark>
+    <mark>requests</mark>
+    <mark>pandas</mark>
+    <mark>sqlserver</mark>
+    <mark>selenium</mark>
+
+    *Front:*
+    <mark>html</mark>
+    <mark>css</mark>
+    <mark>javascript</mark>
+
+    *Cloud:*
+    <mark>azure</mark>
+
+
+

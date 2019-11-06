@@ -10,7 +10,7 @@
 
     Additionally, parallel to the running shop I’ve developed a backoffice on <mark>Python</mark> that integrates and syncs the product stock with the providers and automates tasks that tedious or impossible to do within Prestashop.
 
-    Being  that this project is live, I also manage the hosting and everything related (CDN, Deployments, etc). *There is planed a migration to Scaleway's <mark>kubernetes</mark> in the short term*.
+    Being  that this project is live, I also manage the hosting and everything related (CDN, Deployments, etc). *There is planed a migration to Scaleway's* <mark>kubernetes</mark> *in the short term*.
 
     Design, marketing and most of the non-technical duties are managed by my partner [Iván Sol](https://www.linkedin.com/in/ivan-sol/).
 
