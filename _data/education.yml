@@ -1,9 +1,25 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Monlau Centre d’estudis, Barcelona
+  dates: 2015 - 2017
+  qualification: C.F.G.S. Desenvolupament d'Aplicacions
+    Multiplataforma - (HNC on crossplatform app development)
+#  quote: >
+#    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    ***Tech list***: Java, C#, Python, C, C++, Kotlin, Android, HTML, CSS, JS,
+    PHP, SQL (Oracle, MySQL, MariaDB), MongoDB,
+    desktop apps, Android...
+
+- layout: left
+  name: Monlau Centre d’estudis, Barcelona
+  dates: 2013 - 2015
+  qualification: C.F.G.M. Sistemes Microinformàtics i Xarxes - (VET on systems and networks)
+#  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    OS Administration: Windows (Desktop-Server) and Linux (Ubuntu, Debian, CentOS, etc).
+
+    Cisco network configuration.
+
+    Computer assembly, maintenance and office apps.
