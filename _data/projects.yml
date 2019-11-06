@@ -1,9 +1,16 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: acmotos
+  link: acmotos.com
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    motorcycle gear and accessories ecommerce
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Using <mark>Prestashop</mark> as the base I’ve developed numerous features and fixes within PS to add the functionality needed for the shop, both standalone modules and overwritting core funcionally.
+
+    Additionally, parallel to the running shop I’ve developed a backoffice on <mark>Python</mark> that integrates and syncs the product stock with the providers and automates tasks that tedious or impossible to do within Prestashop.
+
+    Being  that this project is live, I also manage the hosting and everything related (CDN, Deployments, etc). *There is planed a migration to Scaleway's <mark>kubernetes</mark> in the short term*.
+
+    Design, marketing and most of the non-technical duties are managed by my partner [Iván Sol](https://www.linkedin.com/in/ivan-sol/).
+
