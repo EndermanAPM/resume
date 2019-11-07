@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     With <mark>Prestashop</mark> as the base I’ve added numerous features and fixes to fit our needs for the shop, both by coding standalone modules and overwritting core funcionally.
 
-    Additionally, I’ve made a backoffice with <mark>Python</mark> that integrates and syncs the product stock with the providers, and automates tasks that tedious or impossible to do within Prestashop.
+    Additionally, I’ve made a backoffice with <mark>Python</mark> that integrates and syncs the product stock with the providers, and automates tasks that are tedious or impossible to do within Prestashop.
 
     Being that this project is live, I also manage the hosting and everything related (CDN, Deployments, etc). *There is planed a migration to Scaleway's* <mark>kubernetes</mark> *in the short term*.
 
