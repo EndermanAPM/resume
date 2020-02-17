@@ -7,7 +7,6 @@
     Bonfire is a design and technology company specializing in custom apparel. We help people sell shirts online, fundraise for a good cause, or simply order custom printed products direct.
   description: | # this will include new lines to allow paragraphs
     Add features and fix bugs on the *REST* spring boot based backend and ocasional work on the front.
-    based <mark>microservices</mark>.
 
     *Front:*
     <mark>angularjs</mark>
