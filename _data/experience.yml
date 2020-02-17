@@ -1,4 +1,27 @@
-# Experience template
+- layout: left
+  company: Bonfire
+  link: bonfire.com
+  job_title: Backend Java Developer
+  dates: 2019 - 2020
+  quote: >
+    Bonfire is a design and technology company specializing in custom apparel. We help people sell shirts online, fundraise for a good cause, or simply order custom printed products direct.
+  description: | # this will include new lines to allow paragraphs
+    Add features and fix bugs on the *REST* spring boot based backend and ocasional work on the front.
+    based <mark>microservices</mark>.
+
+    *Front:*
+    <mark>angularjs</mark>
+
+    *Back:*
+    <mark>java</mark>
+    <mark>spring-boot</mark>
+    <mark>hibernate</mark>
+    <mark>postgresql</mark>
+
+    *VCS:*
+    <mark>git</mark>
+
+
 - layout: left
   company: Onebox
   link: www.oneboxtds.com
