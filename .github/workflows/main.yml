@@ -27,6 +27,6 @@ jobs:
       - name: html to pdf
         uses: misaelnieto/web_to_pdf_action@master
         with:
-          webPage: https://resume.bugmaker.dev
+          webPage: https://resume.bugmaker.dev/
           outputFile: ./assets/resume.pdf
           pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
