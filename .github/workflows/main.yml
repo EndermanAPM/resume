@@ -29,4 +29,4 @@ jobs:
         uses: "imbhargav5/puppeteer-pdf-action@master"
         with:
           url: https://resume.bugmaker.dev/
-          output-file-path: ./assets/github.pdf
+          output-file-path: github.pdf
