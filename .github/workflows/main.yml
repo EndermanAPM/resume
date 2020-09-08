@@ -30,3 +30,8 @@ jobs:
         with:
           url: https://resume.bugmaker.dev/
           output-file-path: github.pdf
+      - name: Upload pdf artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: homework
+          path: github.pdf
