@@ -12,7 +12,7 @@ email: xavier1997@gmail.com
 website: resume.bugmaker.dev
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
