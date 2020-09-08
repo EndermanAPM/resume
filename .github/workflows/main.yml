@@ -25,11 +25,13 @@ jobs:
         run: echo Hello, world!
         
 
-      - name: Convert https://github.com to PDF
-        uses: "imbhargav5/puppeteer-pdf-action@master"
+      - name: html to pdf
+        uses: misaelnieto/web_to_pdf_action@master
         with:
-          url: https://resume.bugmaker.dev/
-          output-file-path: github.pdf
+          webPage: https://www.noenieto.com/resume/
+          outputFile: ./path/to/my/resume.pdf
+          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+          
       - name: Upload pdf artifact
         uses: actions/upload-artifact@v2
         with:
