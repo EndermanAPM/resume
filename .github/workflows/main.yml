@@ -5,7 +5,9 @@ name: CI
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push
+  push:
+    branches: 
+      - main
 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -23,12 +25,12 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
-        
-      - name: Convert https://github.com to PDF
-        uses: "imbhargav5/puppeteer-pdf-action@master"
+      - name: html to pdf
+        uses: misaelnieto/web_to_pdf_action@master
         with:
-          url: https://resume.bugmaker.dev/
-          output-file-path: resume.pdf
+          webPageURL: https://www.noenieto.com/resume/
+          outputFile: resume.pdf
+          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
           
       - name: Upload pdf artifact
         uses: actions/upload-artifact@v2
