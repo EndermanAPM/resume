@@ -7,10 +7,11 @@
     Innovative and future-oriented service provider, Hexad GmbH is active in the areas of company portals, mobile applications, software development, agile project management and software testing.
   description: |
     Add features and fix bugs on the *REST* spring boot based backend.
+    
     Development and maintenance on react web and react-native app (ios/android) frontends.
 
     *Front:*
-    <mark>react</mark
+    <mark>react</mark>
     <mark>reactnative</mark>
     <mark>jest</mark>
 
